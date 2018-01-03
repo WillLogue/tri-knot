@@ -1,0 +1,7 @@
+public class GaussCode
+{
+	public GaussCode (String s)
+	{
+		
+	}
+}
